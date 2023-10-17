@@ -9,5 +9,6 @@ To run the code, please follow the below steps:
 3. Open maincode.m file by MATLAB.
 4. At the top of the maincode.m, in the file-read commend line, change the file's name according to your data file.
 5. Run the code. The analyzed results will be saved in a folder with the folder's name the same as the original data file's name.
+6. To view the results, one can run aplotFittedFigures2.m file to plot figures of the fitted data. 
 
 Note: one may need to adjust initial approximations of FRET values, variance values, and transition matrix. 
